@@ -3,7 +3,7 @@
 ### From Business Optimization to LLM Fine-Tuning
 
 <a href="https://www.manning.com/books/applied-reinforcement-learning">
-  <img src="https://images.manning.com/264/352/resize/book/b/placeholder.jpg" alt="Applied Reinforcement Learning" width="300" align="right"/>
+  <img src="book_cover.jpg" alt="Applied Reinforcement Learning" width="300" align="right"/>
 </a>
 
 This is the official code repository for [**Applied Reinforcement Learning**](https://www.manning.com/books/applied-reinforcement-learning), published by Manning Publications.
