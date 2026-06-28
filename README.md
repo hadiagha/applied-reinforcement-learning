@@ -31,32 +31,32 @@ Whether you are a data scientist, ML engineer, operations researcher, or softwar
 | Chapter | Title | Code |
 |---------|-------|------|
 | 1 | Real-World Decision Making with Reinforcement Learning | — |
-| 2 | Markov Decision Process: Turning Problems into Solvable Models | [Chapter 2](Chapter2/) |
-| 3 | Design Custom Environments for Reinforcement Learning Algorithms | [Chapter 3](Chapter3/) |
+| 2 | Markov Decision Process: Turning Problems into Solvable Models | [Chapter 2](Chapter02/) |
+| 3 | Design Custom Environments for Reinforcement Learning Algorithms | [Chapter 3](Chapter03/) |
 
 ### Part 2: Reinforcement Learning for Business Optimization
 
 | Chapter | Title | Code |
 |---------|-------|------|
-| 4 | Perfect Knowledge, Optimal Policy: Dynamic Programming | [Chapter 4](Chapter4/) |
-| 5 | Contextual Bandit: Optimizing Stochastic One-Step Decisions | [Chapter 5](Chapter5/) |
-| 6 | Tabular Reinforcement Learning | [Chapter 6](Chapter6/) |
-| 7 | Monte Carlo Tree Search: Searching with RL Principles | [Chapter 7](Chapter7/) |
+| 4 | Perfect Knowledge, Optimal Policy: Dynamic Programming | [Chapter 4](Chapter04/) |
+| 5 | Contextual Bandit: Optimizing Stochastic One-Step Decisions | [Chapter 5](Chapter05/) |
+| 6 | Tabular Reinforcement Learning | [Chapter 6](Chapter06/) |
+| 7 | Monte Carlo Tree Search: Searching with RL Principles | [Chapter 7](Chapter07/) |
 
 ### Part 3: Deep Reinforcement Learning for Business Optimization
 
 | Chapter | Title | Code |
 |---------|-------|------|
-| 8 | Deep Q-Networks for High-Dimensional Data | [Chapter 8](Chapter8/) |
-| 9 | The Calculus of Decisions: Policy Gradient Methods | [Chapter 9](Chapter9/) |
+| 8 | Deep Q-Networks for High-Dimensional Data | [Chapter 8](Chapter08/) |
+| 9 | The Calculus of Decisions: Policy Gradient Methods | [Chapter 9](Chapter09/) |
 
-### Part 4: Reinforcement Learning for Large Language Model Fine-Tuning
+### Part 4: Reinforcement Learning for Large Language Models Fine-Tuning
 
 | Chapter | Title | Code |
 |---------|-------|------|
-| 10 | Fine-Tuning Large Language Models with PPO | Coming soon |
-| 11 | Reinforcement Learning with Human Feedback Using GRPO | Coming soon |
-| 12 | RLVR and Advanced PPO Methods for LLM Reasoning | Coming soon |
+| 10 | Fine-Tuning Large Language Models with PPO | [Chapter 10](Chapter10/) |
+| 11 | Reinforcement Learning with Verifiable Feedback Using GRPO | [Chapter 11](Chapter11/) |
+| 12 | Capstone: Building an LLM-Enhanced News-Aware Dynamic Pricing Agent with Reinforcement Learning | Coming soon |
 
 ---
 
