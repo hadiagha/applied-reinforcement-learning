@@ -1,0 +1,8 @@
+# Chapter 12 -- LLM-Guided RL for Portfolio Management
+# Dependency-light, matching Chapters 10-11. Steps 1-2 need only numpy/torch/
+# matplotlib; transformers is used later (Steps 3-5) for the LLM signal extractor.
+numpy>=1.24
+torch>=2.0
+matplotlib>=3.7
+tqdm>=4.65
+transformers>=4.51
