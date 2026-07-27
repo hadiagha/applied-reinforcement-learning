@@ -56,7 +56,7 @@ Whether you are a data scientist, ML engineer, operations researcher, or softwar
 |---------|-------|------|
 | 10 | Fine-Tuning Large Language Models with PPO | [Chapter 10](Chapter10/) |
 | 11 | Reinforcement Learning with Verifiable Feedback Using GRPO | [Chapter 11](Chapter11/) |
-| 12 | Capstone: Building an LLM-Enhanced News-Aware Dynamic Pricing Agent with Reinforcement Learning | Coming soon |
+| 12 | Building Reinforcement Learning Systems: LLM-Guided RL Agent for Portfolio Management | [Chapter 12](Chapter12/) |
 
 ---
 
